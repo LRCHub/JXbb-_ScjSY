@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ペンタトニック",
+  "base_artist": "syudou",
+  "createdAt": "2025-12-06T05:26:33.763355Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ペンタトニック・ラブ",
+      "artist": "江藤くるみ (洲崎綾)",
+      "has_synced": false,
+      "path": "select/01_ペンタトニック・ラブ_江藤くるみ_(洲崎綾).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ペンタトニック",
+      "artist": "syudou×バルーン",
+      "has_synced": false,
+      "path": "select/pl_01_ペンタトニック_syudou×バルーン.txt"
+    }
+  ]
+}
